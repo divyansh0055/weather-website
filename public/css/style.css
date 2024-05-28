@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Piazzolla:ital,opsz,wght@0,8..30,800;1,8..30,800&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'piazzolla',serif;
+}
+:root{
+    --main-bg: #1e2722;
+    --main-color: #0097e6;
+}
+html{
+    font-size:62.5%;
+}
+.row{
+    margin:0;
+}
+.main_menu{
+    background-color: var(--main-bg);
+}
